@@ -1,3 +1,9 @@
+![TypeScript](https://img.shields.io/badge/TypeScript-88.2%25-blue)
+![Python](https://img.shields.io/badge/Python-4.0%25-yellow)
+![CSS](https://img.shields.io/badge/CSS-3.7%25-blueviolet)
+![Shell](https://img.shields.io/badge/Shell-2.0%25-lightgrey)
+![JavaScript](https://img.shields.io/badge/JavaScript-1.3%25-yellowgreen)
+![HTML](https://img.shields.io/badge/HTML-0.8%25-orange)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
